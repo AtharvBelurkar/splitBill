@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AtharvBelurkar/splitbill/static/css/main.2efa4c87.css",
-    "main.js": "/AtharvBelurkar/splitbill/static/js/main.4a1cc139.js",
-    "index.html": "/AtharvBelurkar/splitbill/index.html",
-    "main.2efa4c87.css.map": "/AtharvBelurkar/splitbill/static/css/main.2efa4c87.css.map",
-    "main.4a1cc139.js.map": "/AtharvBelurkar/splitbill/static/js/main.4a1cc139.js.map"
+    "main.css": "/splitbill/static/css/main.2efa4c87.css",
+    "main.js": "/splitbill/static/js/main.4a1cc139.js",
+    "index.html": "/splitbill/index.html",
+    "main.2efa4c87.css.map": "/splitbill/static/css/main.2efa4c87.css.map",
+    "main.4a1cc139.js.map": "/splitbill/static/js/main.4a1cc139.js.map"
   },
   "entrypoints": [
     "static/css/main.2efa4c87.css",
