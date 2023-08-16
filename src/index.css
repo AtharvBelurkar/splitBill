@@ -20,7 +20,7 @@ body {
 .app {
   min-height: 66vh;
   display: grid;
-  grid-template-columns: 35rem 45rem;
+  grid-template-columns: 40rem 45rem;
   column-gap: 4rem;
   align-items: start;
 }
@@ -29,6 +29,7 @@ body {
   background-color: #ffa94d;
   color: #343a40;
   padding: 0.8rem 1.2rem;
+  margin-right: 0.7rem;
   border: none;
   border-radius: 7px;
   font-weight: bold;
