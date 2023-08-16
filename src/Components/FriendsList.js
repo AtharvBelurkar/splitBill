@@ -1,6 +1,6 @@
 import Friend from "./Friend";
 
-export default function FriendsList({ friends, onSelection, selectedFriend }) {
+export default function FriendsList({ friends, onSelection, selectedFriend, onDeleteFriend }) {
   return (
     <div>
       {friends.map((friend) => (
@@ -9,6 +9,7 @@ export default function FriendsList({ friends, onSelection, selectedFriend }) {
           key={friend.id}
           onSelection={onSelection}
           selectedFriend={selectedFriend}
+          onDeleteFriend={onDeleteFriend}
         />
       ))}
     </div>
