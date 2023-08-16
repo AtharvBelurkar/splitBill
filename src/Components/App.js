@@ -35,6 +35,10 @@ export default function App() {
     setShowAddFriend(false);
   }
 
+  function hanldeDeleteFriend(id) {
+    setFriends((frien) => friends.filter((friend) => friend.id !== id));
+  }
+  
   function handleShowFriend() {
     setShowAddFriend(!showAddFriend);
   }
@@ -62,6 +66,7 @@ export default function App() {
           friends={friends}
           onSelection={handleSelectionFriend}
           selectedFriend={selectedFriend}
+          onDeleteFriend={hanldeDeleteFriend}
         />
         {showAddFriend && <FormAddFriend onSetFriend={handleAddFriend} />}
         <Button onClick={handleShowFriend}>
