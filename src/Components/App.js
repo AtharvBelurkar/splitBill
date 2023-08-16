@@ -7,21 +7,21 @@ import FormSplitBill from "./FormSplitBill";
 const initialFriends = [
   {
     id: 118836,
-    name: "Clark",
+    name: "Ethan",
     image: "https://i.pravatar.cc/48?u=118836",
-    balance: -7,
+    balance: 300,
   },
   {
     id: 933372,
-    name: "Sarah",
+    name: "Sham",
     image: "https://i.pravatar.cc/48?u=933372",
-    balance: 20,
+    balance: 0,
   },
   {
     id: 499476,
-    name: "Anthony",
+    name: "John",
     image: "https://i.pravatar.cc/48?u=499476",
-    balance: 0,
+    balance: -450,
   },
 ];
 
