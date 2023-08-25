@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/splitbill/static/css/main.440a30a7.css",
-    "main.js": "/splitbill/static/js/main.ccda3499.js",
-    "index.html": "/splitbill/index.html",
-    "main.440a30a7.css.map": "/splitbill/static/css/main.440a30a7.css.map",
-    "main.ccda3499.js.map": "/splitbill/static/js/main.ccda3499.js.map"
+    "main.css": "/filmnook/static/css/main.a85ecdba.css",
+    "main.js": "/filmnook/static/js/main.41811572.js",
+    "index.html": "/filmnook/index.html",
+    "main.a85ecdba.css.map": "/filmnook/static/css/main.a85ecdba.css.map",
+    "main.41811572.js.map": "/filmnook/static/js/main.41811572.js.map"
   },
   "entrypoints": [
-    "static/css/main.440a30a7.css",
-    "static/js/main.ccda3499.js"
+    "static/css/main.a85ecdba.css",
+    "static/js/main.41811572.js"
   ]
 }
